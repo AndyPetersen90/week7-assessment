@@ -1,0 +1,24 @@
+Step 1:
+-extraLargeArray:
+    doubleAppend - 4.057ms
+    doubleInsert - 848.917ms
+
+-largeArray:
+    doubleAppend - 996.09us
+    doubleInsert - 11.343ms
+
+-mediumArray:
+    doubleAppend - 222.797us
+    doubleInsert - 206.182us
+
+-smallArray:
+    doubleAppend - 118.363us
+    doubleInsert - 50.302us
+
+-tinyArray:
+    doubleAppend - 111.007us
+    doubleInsert - 40.326us
+
+Google Doc with table and comments
+https://docs.google.com/document/d/1XXPHMqmR1OmPHpk9T3TZu_uKxClGQ3B1QUTJVatyTRI/edit?usp=sharing
+
