@@ -20,5 +20,5 @@ let resultsAppend = perf.stop();
 console.log("time", resultsAppend.preciseWords);
 
 //estimated runtime is 120us
-
+// time complexity O(n)
 //space complexity is O(1)
